@@ -1,0 +1,12 @@
+C:\Users\sri-G\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PerfectCutHairSalon.csprojResolveAssemblyReference.cache
+C:\Users\sri-G\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PerfectCutHairSalon.csproj.GenerateResource.Cache
+C:\Users\sri-G\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PerfectCutHairSalon.exe.config
+C:\Users\sri-G\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PerfectCutHairSalon.exe
+C:\Users\sri-G\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PerfectCutHairSalon.pdb
+C:\Users\sri-G\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PerfectCutHairSalon.PerfectCutHairSalon.resources
+C:\Users\sri-G\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PerfectCutHairSalon.Properties.Resources.resources
+C:\Users\sri-G\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PerfectCutHairSalon.exe
+C:\Users\sri-G\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PerfectCutHairSalon.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PerfectCutHairSalon.exe.config
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PerfectCutHairSalon.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PerfectCutHairSalon.pdb

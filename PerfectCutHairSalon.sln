@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectCutHairSalon", "WindowsFormsApplication1\PerfectCutHairSalon.csproj", "{CFCF1E09-55E7-4D1D-A92C-F3F7B97D6098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFCF1E09-55E7-4D1D-A92C-F3F7B97D6098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCF1E09-55E7-4D1D-A92C-F3F7B97D6098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCF1E09-55E7-4D1D-A92C-F3F7B97D6098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCF1E09-55E7-4D1D-A92C-F3F7B97D6098}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
